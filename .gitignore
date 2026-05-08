@@ -1,0 +1,33 @@
+# Environment
+.env
+*.env
+
+# Google OAuth tokens — never commit these
+token.json
+credentials.json
+
+# Database
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Streamlit cache
+.streamlit/
