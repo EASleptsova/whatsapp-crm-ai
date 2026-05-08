@@ -9,7 +9,6 @@
 [![Claude](https://img.shields.io/badge/Claude-Haiku_4.5-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-F55036?style=flat-square&logo=groq&logoColor=white)](https://groq.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.39-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 
 </div>
 
@@ -221,9 +220,6 @@ farmfresh-whatsapp-crm/
 <img width="1722" height="895" alt="Screenshot 2026-05-07 at 19 04 39" src="https://github.com/user-attachments/assets/ba3ae986-a968-4efe-a75e-b621f2c606c1" />
 <img width="1728" height="901" alt="Screenshot 2026-05-07 at 19 04 13" src="https://github.com/user-attachments/assets/966b41ab-3756-46fd-a4ff-22198513a789" />
 
-## License
-
-MIT
 
 ---
 
