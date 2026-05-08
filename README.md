@@ -7,7 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Claude](https://img.shields.io/badge/Claude-Haiku_4.5-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![Gemini](https://img.shields.io/badge/Gemini-2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-F55036?style=flat-square&logo=groq&logoColor=white)](https://groq.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.39-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
@@ -215,6 +214,12 @@ farmfresh-whatsapp-crm/
 4. Open a pull request
 
 ---
+
+<img width="1726" height="902" alt="Screenshot 2026-05-07 at 19 03 13" src="https://github.com/user-attachments/assets/9809c630-3e58-4424-a33c-039c434c9f3b" />
+<img width="1727" height="903" alt="Screenshot 2026-05-07 at 19 03 41" src="https://github.com/user-attachments/assets/c95bcc36-7f35-4812-bc38-881d604d38c6" />
+<img width="1727" height="898" alt="Screenshot 2026-05-07 at 19 06 08" src="https://github.com/user-attachments/assets/de1c5a71-b58c-46e1-b20e-e30bde6f37f4" />
+<img width="1722" height="895" alt="Screenshot 2026-05-07 at 19 04 39" src="https://github.com/user-attachments/assets/ba3ae986-a968-4efe-a75e-b621f2c606c1" />
+<img width="1728" height="901" alt="Screenshot 2026-05-07 at 19 04 13" src="https://github.com/user-attachments/assets/966b41ab-3756-46fd-a4ff-22198513a789" />
 
 ## License
 
